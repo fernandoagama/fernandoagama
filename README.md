@@ -152,8 +152,6 @@
 <main>
 <section class="footer">
   <div class="content" name="entry.2301">
-    <img align='center'
-        src="https://github-readme-stats.vercel.app/api?username=fernadoagama&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=blue&cache_seconds=2300">
     <p align="left">
      <div class="content" name="entry.2300">
       <h3> :telephone: &nbsp; Contact me</h3>
